@@ -7,7 +7,7 @@ The analysis is contained in the file `ANL501_ECA_Sallyyeo001_SallyMarcellinaYeo
 ## Overview
 
 This project provides a detailed analysis and forecasting of Singapore's maximum daily temperatures using several time series models. The analysis spans from 1960 to 2022, and forecasts are made for the next 10 years (2023-2032).
-The data used can be found in the link <a href="https://github.com/sallyyeo/Forecasting557/blob/main/Submission/SG_Enviroment_TemperatureRainfall.xlsx"> SG Environment Temperature and Rainfall </a>.
+The data used can be found in the link <a href="https://github.com/sallyyeo/Forecasting557/blob/main/Submission/SG_Enviroment_TemperatureRainfall.csv"> SG Environment Temperature and Rainfall </a>.
 
 
 Key models used include:
